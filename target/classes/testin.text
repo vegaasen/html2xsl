@@ -1,190 +1,441 @@
-
-
-
-
 <!DOCTYPE html>
-<html>
-   <body class="logged_in  windows vis-public env-production " data-blob-contribs-enabled="yes">
-    <div id="wrapper">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="no" lang="no">
+<head><meta name="keywords" content="adsl, vdsl, internett, mobil, tv, telefoni, abonnement, telefon, tilbud, bredbånd, superbredbånd" /><meta name="description" content="Telenors sider for privatkunder. Få informasjon om våre abonnement, priser, tilbud og tjenester." /><meta name="date" content="2012-05-15" /><meta http-equiv="Content-Language" content="no" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><title>Bredbånd, mobiltelefon og hjemmetelefon / Privat - Telenor</title>
+<link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico" />
+<link href="/design/win2.0/css/telenor.css" media="screen, projection" rel="stylesheet" type="text/css" /><link href="/design/win2.0/css/frontpage.css" media="screen, projection" rel="stylesheet" type="text/css" /><!--[if IE 7]><link href="/design/win2.0/css/ie7.css" media="screen, projection" rel="stylesheet" type="text/css" /><![endif]--><!--[if lt IE 7]><link href="/design/win2.0/css/ie6.css" media="screen, projection" rel="stylesheet" type="text/css" /><![endif]--><!--[if lt IE 9]><link href="/design/win2.0/css/ie9lt.css" media="screen, projection" rel="stylesheet" type="text/css" /><![endif]--><link href="/design/win2.0/css/print.css" media="print" rel="stylesheet" type="text/css" /><link rel="canonical" href="http://www.telenor.no/privat/" /></head>
+<body id="www-telenor-no" class="telenor-frontpage">
+<script type="text/javascript">document.body.className += " loading";</script><p id="skip"><a href="#content">Hopp til innholdet</a></p>
+<div id="branding">
 
-    
-    
-    
+<div id="logo" class="logo-fadeable">
 
-      <div id="header" class="true clearfix">
-        <div class="container clearfix">
-          <a class="site-logo" href="https://github.com/">
-            <!--[if IE]>
-            <img alt="GitHub" class="github-logo" src="https://a248.e.akamai.net/assets.github.com/images/modules/header/logov7.png?1329920549" />
-            <img alt="GitHub" class="github-logo-hover" src="https://a248.e.akamai.net/assets.github.com/images/modules/header/logov7-hover.png?1329920549" />
-            <![endif]-->
-            <img alt="GitHub" class="github-logo-4x" height="30" src="https://a248.e.akamai.net/assets.github.com/images/modules/header/logov7@4x.png?1329920549" />
-            <img alt="GitHub" class="github-logo-4x-hover" height="30" src="https://a248.e.akamai.net/assets.github.com/images/modules/header/logov7@4x-hover.png?1329920549" />
-          </a>
+<a accesskey="h" title="Telenor.no forside (tastatursnarvei H)" href="/">
 
-              
-    <div class="topsearch ">
-<form accept-charset="UTF-8" action="/search" id="top_search_form" method="get">        <a href="/search" class="advanced-search tooltipped downwards" title="Advanced Search"><span class="mini-icon advanced-search"></span></a>
-        <div class="search placeholder-field js-placeholder-field">
-          <input type="text" class="search my_repos_autocompleter" id="global-search-field" name="q" results="5" spellcheck="false" autocomplete="off" data-autocomplete="my-repos-autocomplete" placeholder="Search" data-hotkey="s" />
-          <div id="my-repos-autocomplete" class="autocomplete-results">
-            <ul class="js-navigation-container"></ul>
-          </div>
-          <input type="submit" value="Search" class="button"/>
-          <span class="mini-icon search-input"></span>
-        </div>
-        <input type="hidden" name="type" value="Everything" />
-        <input type="hidden" name="repo" value="" />
-        <input type="hidden" name="langOverride" value="" />
-        <input type="hidden" name="start_value" value="1" />
-</form>      <ul class="top-nav">
-          <li class="explore"><a href="https://github.com/explore">Explore</a></li>
-          <li><a href="https://gist.github.com">Gist</a></li>
-          <li><a href="/blog">Blog</a></li>
-        <li><a href="http://help.github.com">Help</a></li>
-      </ul>
-    </div>
+<img src="/Images/telenor-logo-transparent_tcm52-139308.png" alt="logo" title="logo" width="102" height="46" />
 
+<img src="/Images/logo-dark_tcm52-187216.png" alt="logo" title="logo" width="102" height="46" class="logo-hidden" />
 
-            
+</a>
 
-
-  <div id="userbox">
-    <div id="user">
-      <a href="https://github.com/vegaasen"><img height="20" src="https://secure.gravatar.com/avatar/1dce2a31ff6267172ed0ac39eb46ccfa?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png" width="20" /></a>
-      <a href="https://github.com/vegaasen" class="name">vegaasen</a>
-    </div>
-    <ul id="user-links">
-      <li>
-        <a href="/new" id="new_repo" class="tooltipped downwards" title="Create a New Repo"><span class="mini-icon new-repo"></span></a>
-      </li>
-      <li>
-        <a href="/inbox/notifications" id="notifications" class="tooltipped downwards" title="Notifications">
-          <span class="mini-icon notifications"></span>
-        </a>
-      </li>
-      <li><a href="/settings/profile" id="settings" class="tooltipped downwards" title="Account Settings"><span class="mini-icon account-settings"></span></a></li>
-      <li>
-          <a href="/logout" data-method="post" id="logout" class="tooltipped downwards" title="Log Out"><span class="mini-icon logout"></span></a>
-      </li>
-    </ul>
-  </div>
-
-
-
-          
-        </div>
-      </div>
-
-      
-
-            <div class="site hfeed" itemscope="" itemtype="http://schema.org/WebPage">
-      <div class="container hentry">
-        <div class="pagehead repohead instapaper_ignore readability-menu">
-        <div class="title-actions-bar">
-          
-
-
-
-              <ul class="pagehead-actions">
-
-          <li class="for-owner"><a href="/vegaasen/BSMobile/admin" class="minibutton btn-admin "><span><span class="icon"></span>Admin</span></a></li>
-
-          <li class="js-toggler-container watch-button-container on">
-            <a href="/vegaasen/BSMobile/toggle_watch" class="minibutton btn-watch watch-button js-toggler-target" data-method="post" data-remote="true" rel="nofollow"><span><span class="icon"></span>Watch</span></a>
-            <a href="/vegaasen/BSMobile/toggle_watch" class="minibutton btn-watch unwatch-button js-toggler-target" data-method="post" data-remote="true" rel="nofollow"><span><span class="icon"></span>Unwatch</span></a>
-          </li>
-
-              <li><a href="/vegaasen/BSMobile/fork_select" class="minibutton btn-fork " rel="facebox nofollow"><span><span class="icon"></span>Fork</span></a></li>
-
-              <li class="nspr">
-                <a href="/vegaasen/BSMobile/pull/new/master" class="minibutton btn-pull-request "><span><span class="icon"></span>Pull Request</span></a>
-              </li>
-
-
-      <li class="repostats">
-        <ul class="repo-stats">
-          <li class="watchers watching">
-            <a href="/vegaasen/BSMobile/watchers" title="Watchers — You're Watching" class="tooltipped downwards">
-              1
-            </a>
-          </li>
-          <li class="forks">
-            <a href="/vegaasen/BSMobile/network" title="Forks - You have a fork" class="tooltipped downwards">
-              1
-            </a>
-          </li>
-        </ul>
-      </li>
-    </ul>
-
-          <h1 itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title">
-            <span class="mini-icon public-repo"></span>
-            <span class="author vcard">
-<a href="/vegaasen" class="url fn" itemprop="url" rel="author">              <span itemprop="title">vegaasen</span>
-              </a></span> /
-            <strong><a href="/vegaasen/BSMobile" class="js-current-repository">BSMobile</a></strong>
-          </h1>
-        </div>
-
-          
-
-  <ul class="tabs">
-    <li><a href="/vegaasen/BSMobile" class="selected" highlight="repo_sourcerepo_downloadsrepo_commitsrepo_tagsrepo_branches">Code</a></li>
-    <li><a href="/vegaasen/BSMobile/network" highlight="repo_network">Network</a></li>
-    <li><a href="/vegaasen/BSMobile/pulls" highlight="repo_pulls">Pull Requests <span class='counter'>0</span></a></li>
-
-      <li><a href="/vegaasen/BSMobile/issues" highlight="repo_issues">Issues <span class='counter'>0</span></a></li>
-
-      <li><a href="/vegaasen/BSMobile/wiki" highlight="repo_wiki">Wiki <span class='counter'>0</span></a></li>
-
-    <li><a href="/vegaasen/BSMobile/graphs" highlight="repo_graphsrepo_contributors">Graphs</a></li>
-
-  </ul>
-     <div id="repo_details" class="metabox clearfix
-       ">
-      <div id="repo_details_loader" class="metabox-loader" style="display:none">Sending Request;</div>
-
-      <div class="repo-desc-homepage">
-        
-
-<div id="repository_description" class="repository-description">
-    <p>browsershotsmobile
-      <span id="read_more" style="display:none">mdash; <a href="#readme">Read more</a></span>
-    </p>
 </div>
 
+<div id="nav">
 
-<div class="repository-homepage" id="repository_homepage">
-  <p><a href="http://" rel="nofollow"></a></p>
+<ul>
+
+<li id="privat">
+
+<span>Privat</span>
+
+</li>
+
+<li id="bedrift">
+
+<a href="/bedrift/">Bedrift</a>
+
+</li>
+
+<li id="omtelenor">
+
+<a href="/om/">Om Telenor</a>
+
+</li>
+
+<li id="login">
+
+<a href="/privat/logginn/">Logg inn</a>
+
+</li>
+
+</ul>
+
+<form action="/sok" id="search" method="get">
+
+<fieldset>
+
+<input name="collection" type="hidden" value="privat" />
+
+<input name="charset" type="hidden" value="utf-8" />
+
+<label for="qt">Søk i telenor.no</label>
+
+<input accesskey="s" class="text" id="qt" name="q" autocomplete="off" />
+
+<div class="button action">
+
+<div>
+
+<input class="s" type="submit" value="Søk" />
+
 </div>
 
-  <a href="#" class="minibutton edit-button js-edit-details"><span>Edit</span></a>
+</div>
 
-      </div>
+</fieldset>
 
-      <div class="edit-repo-desc-homepage" style="display:none">
-<form accept-charset="UTF-8" action="/vegaasen/BSMobile/admin/update_meta" id="js-update-repo-meta-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="_method" type="hidden" value="put" /><input name="authenticity_token" type="hidden" value="k9RUIGEE7i3o1oOXbRdhoEa2dTQRTDK5HBxxlcmBAfc=" /></div>          <p class="error" style="display:none">Sorry, but there was a problem saving your changes.</p>
-          <div>
-            <input type="text" id="repository-description-field" class="description-field" name="repo_description" value="browsershotsmobile" placeholder="Add a description to this repository" />
+</form>
 
-            <input type="text" id="repository-homepage-field" class="homepage-field" name="repo_homepage" value="" placeholder="Add a website to this repository" />
-          </div>
+</div>
 
-          <button type="submit" class="classy save-button"><span>Save Changes</span></button>
-          <p class="cancel"><a href="#" class="danger">Cancel</a></p>
-</form>      </div>
+</div>
+    <div class="slide-show-container">
+<div class="frontpage-slide-show">
+<div class="slide slide-type-3" style="background-image: url(/Images/lg_optimus_2x_toppbanner_tcm52-179189.jpg);"> <div class="slide-content-container"  data-onclick-href="https://nettbutikk.telenor.no/mobil/lgp990?icid=p-120514_privatforsideLGOptimus#subscription=22650755" data-track="" > <div class="slide-content" style="left:430px;top:60px;width:450px;">
+<h2 class="slide-heading">Lynraske LG Optimus 2X</h2>
+<p class="slide-teaser">Denne uken får du lynraske LG Optimus 2X med Prat for kun 799,-. Anbefalt av amobil.no!</p>
+<div class="button action slide-link">
+<a href="https://nettbutikk.telenor.no/mobil/lgp990?icid=p-120514_privatforsideLGOptimus#subscription=22650755" data-track="">
+<span>Gå til nettbutikken</span>
+</a>
+</div> </div> </div> </div>
+<div class="slide slide-type-3" style="background-image: url(/Images/duo_toppbanner_ny_bakgrunn_tcm52-178864.jpg);"> <div class="slide-content-container"  data-onclick-href="http://www.telenor.no/privat/mobil/mobilabonnement/komplettduo/?icid=p-120504_privatforside_KomplettDuo" data-track="" > <div class="slide-content" style="left:440px;top:50px;width:480px;">
+<h2 class="slide-heading">Nyhet! Komplett Duo</h2>
+<p class="slide-teaser">Få to SIM-kort og rikelig med data – surf på mobilen og nettbrettet med ett og samme abonnement!</p>
+<div class="button action slide-link">
+<a href="http://www.telenor.no/privat/mobil/mobilabonnement/komplettduo/?icid=p-120504_privatforside_KomplettDuo" data-track="">
+<span>Se Komplett Duo</span>
+</a>
+</div> </div> </div> </div>
+<div class="slide slide-type-3 dark" style="background-image: url(/Images/mbb_toppbanner_11%2E04_tcm52-190230.jpg);"> <div class="slide-content-container"  data-onclick-href="http://www.telenor.no/privat/mobiltbredband/?icid=p-120410-privatforside_MBB" data-track="" > <div class="slide-content" style="left:540px;top:50px;width:400px;"> </div> </div> </div>
+<div class="slide slide-type-3 dark" style="background-image: url(/Images/hastighet_toppbanner_black_tcm52-178885.jpg);"> <div class="slide-content-container"  data-onclick-href="http://www.telenor.no/privat/dekning/dekning.jsp?icid=p-120218-privatforside_dekning" data-track="" > <div class="slide-content" style="left:150px;top:50px;width:330px;">
+<h2 class="slide-heading">Bedre opplevelser </h2>
+<p class="slide-teaser">I fjor oppgraderte vi mobilnettet. 
+I år skrur vi opp hastigheten.
+</p>
+<div class="button action slide-link">
+<a href="http://www.telenor.no/privat/dekning/dekning.jsp?icid=p-120218-privatforside_dekning" data-track="">
+<span>Mer om dekning</span>
+</a>
+</div> </div> </div> </div>
+<div class="slide slide-type-3 dark" style="background-image: url(/Images/toppbanner_tippeliga_tcm52-178863.jpg);"> <div class="slide-content-container"  data-onclick-href="http://www.telenor.no/privat/bredband/?icid=p-120319-privatforside_tippeliga" data-track="" > <div class="slide-content" style="left:495px;top:100px;width:400px;">
+<p class="slide-teaser">Kjøp bredbånd nå, så spanderer vi Tippeligaen på nett-tv hele 2012. Gjelder alle våre bredbåndskunder.</p>
+<div class="button action slide-link">
+<a href="http://www.telenor.no/privat/bredband/?icid=p-120319-privatforside_tippeliga" data-track="">
+<span>Se tilbudet</span>
+</a>
+</div> </div> </div> </div>
+</div>
+</div>
+<div class="frontpage-section frontpage-menu">
+<div class="frontpage-components">
+<div id="menu">
+<ul class="nav fpnav">
+<li class="active" data-target="categories">
+<a href="#">
+						Kategorier
+					</a>
+</li>
+<li data-target="a-aa-target">
+										<a href="/privat/alt_innhold.jsp?target=a-aa-target#menu-source" rel="source">Alt innhold A-Å</a>
+									 </li>
+</ul>
+<ul class="links links-right">
+<li>
+<a href="/bedrift">
+						Gå til bedrift
+					</a>
+</li>
+</ul>
+<div id="sub-menu">
+<div id="categories">
+<div class="cat">
+<h2>
+							<a href="/privat/mobil/index.jsp">Mobil</a>
+						
+		</h2>
+<ul>
+<li>
+							<a href="/privat/mobil/mobilabonnement/index.jsp">Abonnement og priser</a>
+						
+		</li>
+<li>
+<a href="https://nettbutikk.telenor.no/Mobil#!">Kjøp mobiltelefon</a>
+</li>
+<li>
+<a href="https://www.telenor.no/privat/minesider/mobil/ladekontantkort">Lade kontantkort</a>
+</li>
+<li>
+							<a href="/privat/mobil/mobiltjenester/index.jsp">Mobiltjenester</a>
+						
+		</li>
+<li>
+							<a href="/privat/kundeservice/mobilhjelp/index.jsp">Hjelp til mobilen</a>
+						
+		</li>
+</ul>
+</div>
+<div class="cat">
+<h2>
+							<a href="/privat/mobiltbredband/index.jsp">Mobilt Bredbånd</a>
+						
+		</h2>
+<ul>
+<li>
+							<a href="/privat/mobiltbredband/index.jsp">Abonnement og priser</a>
+						
+		</li>
+<li>
+							<a href="/privat/kundeservice/mobiltbredband/programvare/index.jsp">Last ned programvare</a>
+						
+		</li>
+<li>
+							<a href="/privat/dekning/dekning_data.jsp">Se dekningskart</a>
+						
+		</li>
+<li>
+<a href="http://www.telenor.no/privat/mobil/mobiltjenester/datatvilling.jsp">Datatvilling</a>
+</li>
+<li>
+							<a href="/privat/kundeservice/mobiltbredband/index.jsp">Hjelp til Mobilt Bredbånd</a>
+						
+		</li>
+</ul>
+</div>
+<div class="cat">
+<h2>
+							<a href="/privat/bredband/index.jsp">Bredbånd</a>
+						
+		</h2>
+<ul>
+<li>
+							<a href="/privat/bredband/index.jsp">Abonnement og priser</a>
+						
+		</li>
+<li>
+							<a href="/privat/bredband/fiber/index.jsp">Fiber bredbånd</a>
+						
+		</li>
+<li>
+<a href="http://www.telenor.no/privat/kundeservice/epost/">E-post</a>
+</li>
+<li>
+							<a href="/privat/bredband/bredbandstjenester/index.jsp">Bredbåndstjenester</a>
+						
+		</li>
+<li>
+							<a href="/privat/kundeservice/bredbandshjelp/index.jsp">Hjelp til bredbånd</a>
+						
+		</li>
+</ul>
+</div>
+<div class="cat">
+<h2>
+<a href="/privat/telefoni/">Hjemmetelefon</a>
+</h2>
+<ul>
+<li>
+<a href="/privat/telefoni/">Abonnement og priser</a>
+</li>
+<li>
+							<a href="/privat/telefoni/telefontjenester/frifamilie/index.jsp">FriFamilie</a>
+						
+		</li>
+<li>
+							<a href="/privat/telefoni/telefontjenester/index.jsp">Telefontjenester</a>
+						
+		</li>
+<li>
+<a href="http://www.telenor.no/privat/telefoni/priser/utland/">Utlandspriser</a>
+</li>
+<li>
+							<a href="/privat/kundeservice/telefonhjelp/index.jsp">Hjelp til telefon</a>
+						
+		</li>
+</ul>
+</div>
+<div class="cat">
+<h2>
+							<a href="/privat/kundeservice/index.jsp">Kundeservice</a>
+						
+		</h2>
+<ul>
+<li>
+							<a href="/privat/kundeservice/faktura/index.jsp">Fakturahjelp</a>
+						
+		</li>
+<li>
+							<a href="/privat/kundeservice/tvhjelp/index.jsp">TV-hjelp</a>
+						
+		</li>
+<li>
+							<a href="/privat/kundeservice/flytting/index.jsp">Hjelp til flytting</a>
+						
+		</li>
+<li>
+<a href="http://www.telenor.no/privat/kundeservice/mobilhjelp/operatorlas/">Operatørlås</a>
+</li>
+<li>
+							<a href="/privat/kundeservice/kontakt/index.jsp">Kontakt kundeservice</a>
+						
+		</li>
+</ul>
+</div>
+<div class="cat">
+<h2>Annet</h2>
+<ul>
+<li>
+<a href="https://www.telenor.no/privat/minesider/logginnfelles.cms">Mine sider</a>
+</li>
+<li>
+<a href="http://comoyo.no/film">Comoyo Film &amp; TV</a>
+</li>
+<li>
+							<a href="/privat/tv/index.jsp">TV over fiber</a>
+						
+		</li>
+<li>
+							<a href="/telenorbutikken/index.jsp">Telenorbutikkene</a>
+						
+		</li>
+<li>
+<a href="http://www.facebook.com/telenornorge">Følg oss på Facebook</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="nav-a-aa" id="a-aa-target"> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="frontpage-section frontpage-main-content">
+<div class="frontpage-components">
+<div class="comp comp-l">
+<div class="frontpage-comp-teaser-image">
+<img src="/Images/mellomkomp_galaxy_s3_tcm52-194640.png" alt="Samsung Galaxy S III" />
+</div>
+<div class="content">
+<h2>Samsung Galaxy III er lansert!</h2>
+<p>Samsung sitt siste flaggskip imponerer stort! Skjermen er rett og slett fantastisk og brukeropplevelsen er vanvittig bra! Registrer deg i dag, så får du e-post med informasjon om når den er klar for salg. Det er bare å glede seg!</p>
+<p class="more">
+<a href="http://www.telenor.no/privat/mobil/SamsungGalaxySIII.jsp?icid=p-120509-privatforside_SGalaxySIII">Samsung Galaxy S III</a>
+</p>
+</div>
+</div>
+<div class="comp comp-s">
+<div class="content">
+<h2>Fra 129,- </h2>
+<p>Få full kontroll, lav måndespris og ingen binding med mobilabonnementet Komplett.</p>
+<p class="more">
+<a href="http://www.telenor.no/privat/mobil/mobilabonnement/?icid=p-120510-privatforside_mobilabonnement">Finn ditt abonnement</a>
+</p>
+</div>
+</div>
+<div class="comp comp-s">
+<div class="content">
+<h2>Telenor og 4G</h2>
+<p>I løpet av 2012 lanserer vi 4G i Oslo, Bergen, Trondheim og Stavanger, samt Bærum og Sandnes.</p>
+<p class="more">
+<a href="http://www.telenor.no/privat/dekning/dekning.jsp?icid=p-120329-privatforside_4G_mellomkomp2">Mer om 4G</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="frontpage-section frontpage-bottom">
+<div class="frontpage-components">
+<div class="comp comp-s">
+<div class="content">
+<h3>
+<img src="/Images/frifamilie2_tcm52-178888.png" alt="FriFamilie" />FriFamilie</h3>
+<p>Med FriFamilie kan du ringe og sende SMS/MMS til familien for 0,-. Tjenesten koster ingenting.</p>
+<a href="http://www.telenor.no/privat/telefoni/telefontjenester/frifamilie/?icid=p-111122-privatforside_FriFamilie">Gå til FriFamile</a>
+</div>
+</div>
+<div class="comp comp-s">
+<div class="content">
+<h3>
+<img src="/Images/dekning2_tcm52-179171.png" alt="dekning" />Suveren dekning</h3>
+<p>Vi fornyer mobilnettet. Resultatet er et flunkende nytt nett som gir raskere mobilsurf og større kapasitet. </p>
+<a href="http://www.telenor.no/privat/dekning/dekning.jsp?icid=p-111122-privatorside_dekning">Mer om dekning</a>
+</div>
+</div>
+<div class="comp comp-s">
+<div class="content">
+<h3>
+<img src="/Images/wimp2_tcm52-179185.png" alt="Wimp" />Wimp</h3>
+<p>WiMP gir deg ubegrenset tilgang til millioner av låter. Ta med musikken din overalt på mobilen eller pc-en din.</p>
+<a href="http://www.telenor.no/privat/underholdning/wimp.jsp?icid=p-111122-privatforside_wimp">Gå til Wimp </a>
+</div>
+</div>
+<div class="comp comp-s">
+<div class="content">
+<h3>
+<img src="/Images/ring2_tcm52-179186.png" alt="ring meg" />Ring meg</h3>
+<p>Lyst på et bra tilbud fra Telenor? Vi hjelper deg til å finne det abonnementet som passer deg.</p>
+<a href="http://www.telenor.no/privat/tilbud.jsp?icid=p-111122_forside_ringmeg">Vi ringer deg</a>
+</div>
+</div>
+</div>
+</div>
+  <div id="fpfooterwrap">
 
-      
-<div class="url-box">
-  <ul class="native-clones">
-      <li><a href="/vegaasen/BSMobile/zipball/master" class="minibutton btn-download " rel="nofollow" title="Download this repository as a zip file"><span><span class="icon"></span>ZIP</span></a></li>
-  </ul>
+<div id="fpfooter">
+
+<span class="copyright">© 2012 Telenor ASA</span>
+
+<ul class="links">
+
+<li>
+
+<a href="/om/personvern/">Personvern og sikkerhet</a>
+
+</li>
+
+<li>
+
+<a href="/kontakt/">Kontakt Telenor</a>
+
+</li>
+
+<li>
+
+<a title="online.no" href="http://online.no">online.no</a>
+
+</li>
+
+<li>
+
+<a title="djuice" href="http://www.djuice.no">djuice</a>
+
+</li>
+
+</ul>
+
+<ul class="sociallinks">
+
+<li class="facebook">
+
+<a title="Følg oss på Facebook" href="http://www.facebook.com/telenornorge">Facebook</a>
+
+</li>
+
+<li class="twitter">
+
+<a title="Følg oss på Twitter" href="http://twitter.com/telenor_service">Twitter</a>
+
+</li>
+
+</ul>
+
 </div>
+
 </div>
-</div>
-</div>
-</div>
-</div>
-</body>
-</html>
+<script type="text/javascript" charset="UTF-8" src="/design/win2.0/js/telenor.js"></script><script type="text/javascript" src="/design/js/omniture/omniture.js"></script><script type="text/javascript">
+	vermin.sewage = vermin.sewage || {};
+	vermin.sewage.pageContentProperties = vermin.sewage.pageContentProperties || {};
+vermin.sewage.pageContentProperties.hier1="Hjem/Privat";
+vermin.sewage.pageContentProperties.pageName="Hjem:Privat";
+
+vermin.sewage.pageContentProperties.server = vermin.sewage.pageContentProperties.server || "www.telenor.no";
+vermin.sewage.pageContentProperties.channel = vermin.sewage.pageContentProperties.channel || "Privat";
+vermin.sewage.pageContentProperties.hier1 = vermin.sewage.pageContentProperties.hier1 || "Hjem/Privat/Bredbånd, mobiltelefon og hjemmetelefon";
+vermin.sewage.pageContentProperties.pageName = vermin.sewage.pageContentProperties.pageName || "Hjem:Privat:Bredbånd, mobiltelefon og hjemmetelefon";
+vermin.sewage.pageContentProperties.prop33 = vermin.sewage.pageContentProperties.pageName;
+if(vermin.sewage.pageContentProperties.eVar19){
+	vermin.sewage.pageContentProperties.prop33 += ":" + vermin.sewage.pageContentProperties.eVar19;
+}
+vermin.omniture.pageLoad(vermin.sewage.pageContentProperties);
+</script>
+<noscript><img src="http://telenorprod.112.2O7.net/b/ss/telenorprod/1/H.14--NS/0" height="1" width="1" border="0" alt="" /></noscript>
+</body></html>
