@@ -22,20 +22,16 @@ public class DocumentUtilities {
     protected static final String E_OBJECT_WAS_NULL = "Object is null";
     protected static final String E_NO_SUCH_ELEMENT = "No Such Element!";
 
-    public static List<Properties> getTransformProperties() {
-        List<Properties> transformationProperties = new ArrayList<Properties>();
-        Properties p_indent = new Properties();
-        p_indent.setProperty(OutputKeys.INDENT, "yes");
-        Properties p_indentAmount = new Properties();
-        p_indentAmount.setProperty("{http://xml.apache.org/xslt}indent-amount", "2");
-        Properties p_encoding = new Properties();
-        p_encoding.setProperty(OutputKeys.ENCODING, "utf-8");
+    public static Properties getTransformProperties() {
+        Properties tProp = new Properties();
 
-        transformationProperties.add(p_indent);
-        transformationProperties.add(p_indentAmount);
-        transformationProperties.add(p_encoding);
+        tProp.put(OutputKeys.INDENT, "yes");
+        tProp.put("{http://xml.apache.org/xslt}indent-amount", "2");
+        tProp.put(OutputKeys.ENCODING, "utf-8");
+        tProp.put(OutputKeys.OMIT_XML_DECLARATION, "no");
+        tProp.put(OutputKeys.METHOD, "xml");
 
-        return transformationProperties;
+        return tProp;
     }
 
     public static synchronized InputStream getInputStreamFromString(final String input) {
@@ -102,6 +98,17 @@ public class DocumentUtilities {
             }
         }
         return objectWasNotNull;
+    }
+
+    public static String propertiesReader(final String key) {
+        Properties p = new Properties();
+        try {
+            p.load(DocumentUtilities.class.getResource("system.properties").openStream());
+            p.get(key);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return null;
     }
 
     public enum HttpStatusCodes {

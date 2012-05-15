@@ -4,9 +4,24 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <name>HTML2XSL</name>
+    <description>Simple HTML2XSL project</description>
+
     <groupId>com.telenor.xsl</groupId>
     <artifactId>elements-xsl</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <developers>
+        <developer>
+            <name>Vegard Aasen</name>
+            <email>vegaasen@gmail.com</email>
+            <id>vegaasen</id>
+            <organization>AWSome</organization>
+            <organizationUrl>http://snekkeri.vegaasen.com</organizationUrl>
+            <url>http://www.vegaasen.com</url>
+            <timezone>NO_no</timezone>
+        </developer>
+    </developers>
 
     <dependencies>
         <dependency>
@@ -24,7 +39,16 @@
             <artifactId>commons-lang</artifactId>
             <version>2.6</version>
         </dependency>
-        
     </dependencies>
+
+    <build>
+
+    </build>
+
+    <profiles>
+        
+    </profiles>
+
+    <properties/>
 
 </project>

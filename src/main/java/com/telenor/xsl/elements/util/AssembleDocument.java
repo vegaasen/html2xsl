@@ -26,9 +26,7 @@ public class AssembleDocument {
 
                 TransformerFactory transformerFactory = TransformerFactory.newInstance();
                 Transformer transformer = transformerFactory.newTransformer();
-                for(Properties p : DocumentUtilities.getTransformProperties()) {
-                    transformer.setOutputProperties(p);
-                }
+                transformer.setOutputProperties(DocumentUtilities.getTransformProperties());
                 
                 transformer.transform(domSource, streamResult);
 

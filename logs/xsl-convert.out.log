@@ -18,3 +18,360 @@
 2012-05-15 17:39:35,071 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
 2012-05-15 17:39:35,071 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
 2012-05-15 17:39:35,087 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:18:14,858 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:18:14,967 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:18:14,967 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:18:14,967 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:18:14,998 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:18:15,480 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:18:15,481 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:18:15,481 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:18:15,481 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:18:15,481 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:18:15,482 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:18:15,903 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:18:15,903 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:18:15,903 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:18:15,904 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:18:15,904 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:18:15,904 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:18:15,905 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:18:16,608 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:18:33,473 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:18:33,485 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:18:33,486 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:18:33,486 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:18:33,492 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:18:33,527 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:18:33,527 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:18:33,528 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:18:33,528 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:18:33,528 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:18:33,528 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:18:33,528 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:18:33,529 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:18:33,529 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:18:33,529 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:18:33,529 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:18:33,540 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:18:33,541 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:18:33,599 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:22:01,734 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:22:01,744 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:22:01,744 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:22:01,744 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:22:01,751 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:22:01,783 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:22:01,784 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:22:01,784 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:22:01,784 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:22:01,784 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:22:01,785 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:22:01,785 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:22:01,785 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:22:01,785 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:22:01,785 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:22:01,785 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:22:01,786 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:22:01,824 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:22:01,874 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:23:05,423 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:23:05,433 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:23:05,433 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:23:05,433 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:23:05,443 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:23:05,475 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:23:05,475 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:23:05,475 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:23:05,475 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:23:05,475 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:23:05,475 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:23:05,475 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:23:05,475 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:23:05,475 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:23:05,475 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:23:05,475 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:23:05,475 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:23:05,515 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:23:05,535 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:25:00,967 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:25:00,977 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:25:00,978 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:25:00,978 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:25:00,984 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:25:01,017 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:25:01,018 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:25:01,018 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:27:02,378 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:27:02,388 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:27:02,388 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:27:02,388 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:27:02,398 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:27:02,438 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:27:02,438 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:27:02,438 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:27:14,970 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:27:14,980 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:27:14,980 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:27:14,980 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:27:14,980 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:27:15,023 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:27:15,023 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:27:15,023 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:27:15,023 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:27:15,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:27:15,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:27:15,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:27:15,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:27:15,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:27:15,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:27:15,025 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:27:15,025 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:27:15,051 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:27:15,101 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:27:36,963 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:27:36,983 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:27:36,983 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:27:36,983 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:27:36,983 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:27:37,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:27:37,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:27:37,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:27:37,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:27:37,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:27:37,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:27:37,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:27:37,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:27:37,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:27:37,034 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:27:37,034 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:27:37,034 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:27:37,034 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:27:37,106 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:28:18,344 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:28:18,364 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:28:18,364 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:28:18,364 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:28:18,374 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:28:18,407 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:18,407 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:18,407 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:28:18,407 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:18,407 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:28:18,417 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:18,417 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:28:18,417 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:28:18,417 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:28:18,417 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:28:18,417 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:28:18,417 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:28:18,437 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:28:18,509 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:28:36,508 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:28:36,528 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:28:36,528 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:28:36,528 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:28:36,528 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:28:36,569 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:36,569 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:36,569 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:28:36,569 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:36,569 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:28:36,569 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:36,569 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:28:36,569 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:28:36,569 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:28:36,569 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:28:36,569 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:28:36,569 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:28:36,599 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:28:36,671 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:28:48,107 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:28:48,117 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:28:48,117 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:28:48,117 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:28:48,127 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:28:48,158 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:48,158 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:48,158 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:28:48,168 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:48,168 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:28:48,168 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:48,168 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:28:48,168 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:28:48,168 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:28:48,168 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:28:48,168 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:28:48,168 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:28:48,198 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:28:48,270 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:28:54,902 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:28:54,914 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:28:54,914 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:28:54,914 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:28:54,921 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:28:54,954 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:54,955 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:54,955 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:28:54,955 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:54,955 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:28:54,955 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:28:54,955 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:28:54,956 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:28:54,956 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:28:54,956 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:28:54,956 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:28:54,971 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:28:54,972 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:28:55,024 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:29:41,011 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:29:41,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:29:41,024 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:29:41,025 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:29:41,031 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:29:41,068 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:29:41,068 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:29:41,069 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:29:41,069 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:29:41,069 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:29:41,069 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:29:41,069 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:29:41,070 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:29:41,070 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:29:41,070 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:29:41,071 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:29:41,071 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:29:41,090 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:29:41,138 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:35:46,125 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:35:46,135 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:35:46,135 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:35:46,135 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:35:46,145 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:35:46,186 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:35:46,186 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:35:46,186 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:35:46,186 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:35:46,186 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:35:46,186 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:35:46,186 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:35:46,186 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:35:46,186 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:35:46,186 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:35:46,186 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:35:46,186 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:35:46,216 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:35:46,288 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:35:56,838 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:35:56,901 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:35:56,902 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:35:56,902 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:35:56,915 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:35:56,962 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:35:56,964 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:35:56,964 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:35:56,964 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:35:56,965 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:35:56,965 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:35:56,965 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:35:56,966 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:35:56,966 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:35:56,966 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:35:56,966 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:35:56,966 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:35:56,985 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:35:57,036 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:36:59,757 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:36:59,767 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:36:59,767 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:36:59,767 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:36:59,767 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:36:59,808 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:36:59,808 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:36:59,808 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:36:59,808 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:36:59,808 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:36:59,808 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:36:59,808 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:36:59,808 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:36:59,808 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:36:59,808 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:36:59,808 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:36:59,808 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:36:59,838 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:36:59,910 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 21:37:07,332 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 21:37:07,343 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 21:37:07,343 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 21:37:07,343 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 21:37:07,350 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 21:37:07,385 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:37:07,385 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:37:07,385 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 21:37:07,386 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:37:07,386 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 21:37:07,386 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 21:37:07,386 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 21:37:07,386 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 21:37:07,386 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 21:37:07,386 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 21:37:07,386 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 21:37:07,387 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 21:37:07,433 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 21:37:07,483 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 22:39:24,511 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 22:39:24,531 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 22:39:24,531 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 22:39:24,531 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 22:39:24,542 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 22:39:24,582 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 22:39:24,582 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 22:39:24,582 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 22:39:24,582 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 22:39:24,582 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 22:39:24,582 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 22:39:24,582 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 22:39:24,582 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 22:39:24,582 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 22:39:24,582 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 22:39:24,582 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 22:39:24,582 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 22:39:24,592 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly
+2012-05-15 22:39:24,655 [main] INFO  com.telenor.xsl.elements.execute.RunDomParse - Document parsed and saved @ location no idea.
+2012-05-15 22:45:22,519 [main] DEBUG com.telenor.xsl.elements.execute.RunDomParse - Argument found: -l=C:\dev\vegaasen_proj\html2xsl\src\main\resources\testin_small.text
+2012-05-15 22:45:22,537 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document-parsing starting..
+2012-05-15 22:45:22,537 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Building DOM Document
+2012-05-15 22:45:22,538 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Trying to refine document.
+2012-05-15 22:45:22,547 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Document has been refined. Continue with normal procedure.
+2012-05-15 22:45:22,600 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 22:45:22,600 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 22:45:22,600 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: browsershotsmobile
+      
+2012-05-15 22:45:22,600 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 22:45:22,600 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: mdash; 
+2012-05-15 22:45:22,600 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Writing for element:xsl:element
+2012-05-15 22:45:22,600 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: Read more
+2012-05-15 22:45:22,600 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: #readme
+2012-05-15 22:45:22,600 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: read_more
+2012-05-15 22:45:22,600 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: display:none
+2012-05-15 22:45:22,600 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository-description
+2012-05-15 22:45:22,600 [main] DEBUG com.telenor.xsl.elements.util.ParseDocument - Evaluating current string: repository_description
+2012-05-15 22:45:22,631 [main] DEBUG com.telenor.xsl.elements.util.AssembleDocument - Initiate assembly

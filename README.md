@@ -16,3 +16,13 @@ must not be considered as über-serious, as I guess there will not be many peopl
 ## Code writers
 
 * Vegard Aasen
+
+## Revisions (latest -> oldest)
+
+### 1.0-SNAPSHOT [16.5.2012]
+
+#### Delivered
+Simple and clean HTML2XSL converter. Can be used with commandline commands, or with a über simple gui.
+
+#### Missing / Deltas
+Alot.

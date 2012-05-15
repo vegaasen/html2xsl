@@ -36,8 +36,8 @@ public class ParseDocument {
             XSL_OUTPUT = "xsl:output",
             XSL_STYLESHEET = "xsl:stylesheet";
     private static final String
-            CDATA_START = "<![CDATA[",
-            CDATA_END = "]]>";
+            CDATA_START = "\u003E![CDATA[",
+            CDATA_END = "]]\u003C";
 
     private static Document targetDocument;
 
@@ -79,13 +79,13 @@ public class ParseDocument {
             final Element e_xslStylesheet = targetDocument.createElement(XSL_STYLESHEET);
             e_xslStylesheet.setAttribute("version", "1.0");
             e_xslStylesheet.setAttribute("xmlns:xsl", "http://www.w3.org/1999/XSL/Transform");
-            final Element e_xslOuput = targetDocument.createElement(XSL_OUTPUT);
-            e_xslOuput.setAttribute("method","xml");
-            e_xslOuput.setAttribute("version","1.0");
-            e_xslOuput.setAttribute("encoding","utf-8");
-            e_xslOuput.setAttribute("omit-xml-declaration","yes");
-            e_xslOuput.setAttribute("indent","yes");
-            e_xslStylesheet.appendChild(e_xslOuput);
+            final Element e_xslOutput = targetDocument.createElement(XSL_OUTPUT);
+            e_xslOutput.setAttribute("method","xml");
+            e_xslOutput.setAttribute("version", "1.0");
+            e_xslOutput.setAttribute("encoding", "utf-8");
+            e_xslOutput.setAttribute("omit-xml-declaration", "yes");
+            e_xslOutput.setAttribute("indent", "yes");
+            e_xslStylesheet.appendChild(e_xslOutput);
             targetDocument.appendChild(e_xslStylesheet);
             Element copyOfExistingTree = (Element) targetDocument.importNode(originalDocument.getDocumentElement(), true);
             e_xslStylesheet.appendChild(copyOfExistingTree);
