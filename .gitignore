@@ -1,3 +1,7 @@
+# Folders #
+target/*
+
+# Generated source files #
 *.class
 
 # Package Files #
@@ -5,3 +9,8 @@
 *.war
 *.ear
 *.rar
+
+# IntelliJ Idea Files #
+*.iws
+*.ipr
+*.iml
